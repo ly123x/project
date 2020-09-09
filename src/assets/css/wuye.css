@@ -1,0 +1,217 @@
+.ds {
+    background-color: #957BFE !important;
+}
+
+.propertypaycosst .top .img1 {
+    width: 77.5%;
+    margin-top: 68px;
+}
+
+.propertypaycosst button {
+    border: none;
+    background: #B9B9FF;
+    border-radius: 3px;
+    font-size: 13px;
+    height: 23px;
+    color: white;
+    float: right;
+    width: 70px;
+}
+
+.propertypaycosst .ding {
+    position: relative;
+}
+
+.propertypaycosst #ding img {
+    position: absolute;
+    left: 263px;
+    top: 45px;
+    height: 31px;
+}
+
+.propertypaycosst .footer {
+    margin-top: 600px;
+    margin-left: -29px;
+}
+
+.propertypaycosst .blue {
+    color: #4FA0FF;
+}
+
+.propertypaycosst #ding span {
+    position: absolute;
+    left: 287px;
+    top: 73px;
+    font-weight: bolder;
+    color: white;
+}
+
+.propertypaycosst .ul li:first-of-type {
+    width: 176px;
+    height: 50px;
+    background: #623BFF;
+    line-height: 50px;
+}
+
+.propertypaycosst .u2 {
+    padding-top: 45px;
+    padding-left: 77px;
+}
+
+.propertypaycosst .ul li:first-of-type {
+    width: 176px;
+    height: 50px;
+    background: #623BFF;
+    line-height: 50px;
+}
+
+.propertypaycosst .ul li:nth-of-type(2) {
+    width: 149px;
+    height: 50px;
+    background: #BDBDFF;
+    line-height: 50px;
+    margin-left: 15px;
+}
+
+.propertypaycosst .ul li:nth-of-type(3),
+.propertypaycosst .ul li:nth-of-type(4),
+.propertypaycosst .ul li:nth-of-type(5),
+.propertypaycosst .ul li:nth-of-type(6),
+.propertypaycosst .ul li:nth-of-type(7) {
+    width: 149px;
+    height: 50px;
+    background: #BDBDFF;
+    line-height: 50px;
+    margin-left: 5px;
+}
+
+.propertypaycosst .ul li {
+    float: left;
+}
+
+.propertypaycosst .section {
+    margin-left: 223px;
+    color: white;
+    margin-top: 22px;
+    cursor: pointer;
+}
+
+.propertypaycosst .red {
+    color: #FF6600;
+}
+
+.propertypaycosst .cha {
+    margin-left: 226px;
+    border: 1px solid #E6E6FF;
+    margin-top: 132px;
+    width: 82.3%;
+    height: 813px;
+}
+
+.propertypaycosst .u3 li {
+    float: left;
+    padding: 9px 33px;
+}
+
+.propertypaycosst .cha .p1 {
+    color: white;
+    height: 40px;
+    line-height: 40px;
+    width: 100px;
+    float: right;
+    background: #BDBDFF;
+}
+
+.propertypaycosst .u2 li {
+    border: 1px solid #E6E6FF;
+    width: 300px;
+    height: 148px;
+    border-radius: 10px;
+    float: left;
+    margin: 10px 14px;
+    padding: 16px 14px;
+}
+
+.propertypaycosst .u2 p:first-of-type {
+    font-weight: bolder;
+    text-align: left;
+    font-size: 15px;
+}
+
+.propertypaycosst .u2 p:nth-of-type(2) {
+    text-align: left;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.propertypaycosst .u2 p:nth-of-type(3) {
+    text-align: left;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.propertypaycosst .u2 p:first-of-type span,
+.u2 p:nth-of-type(2) span {
+    margin-left: 25px;
+}
+
+.propertypaycosst .f1 {
+    margin-top: 655px;
+    margin-left: 70px;
+}
+
+.propertypaycosst .u3 li div:first-of-type {
+    background: url("../img/s6.png")no-repeat;
+    width: 228px;
+    height: 114px;
+    padding-top: 30px;
+}
+
+.propertypaycosst .u3 li div:last-of-type {
+    width: 228px;
+    height: 200px;
+    border: 1px solid #E6E6FF;
+    margin-top: -1px;
+    padding: 14px;
+    font-size: 15px;
+    color: black;
+    text-align: left;
+}
+
+.propertypaycosst .u3 li div:first-of-type p:first-of-type {
+    font-size: 30px;
+}
+
+.propertypaycosst .b1 {
+    border: none;
+    background: #B9B9FF;
+    border-radius: 3px;
+    font-size: 13px;
+    color: white;
+    float: right;
+    width: 187px;
+    height: 36px;
+    margin-top: -51px;
+    position: absolute;
+    margin-left: -91px;
+}
+
+.propertypaycosst .u3 li div:first-of-type p:last-of-type {
+    font-size: 10px;
+}
+
+.propertypaycosst .bbb {
+    margin-left: 30px;
+}
+
+.propertypaycosst ul.u3 {
+    padding: 40px 80px;
+    color: white;
+    line-height: 40px;
+}
+
+.propertypaycosst .red {
+    color: red;
+    font-weight: bolder;
+    font-size: 18px;
+}
